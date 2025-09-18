@@ -34,11 +34,9 @@ python behavior_dirty_edit_cleaner.py
 
 3. In the GUI:
 
-- Select your Mod Root Folder
+- Select your mod folder that you want to clean
 
-- Select your filelist.txt
-
-- Select your patterns.txt
+- Edit and select your filelist.txt and patterns.txt or use the one included (written based on article)
 
 - Click Run Cleanup
 
