@@ -8,6 +8,14 @@ Supports both **Nemesis_Engine** and **Pandora_Engine** mod folders, using a con
 
 
 
+## How it works
+
+
+
+Reads the files listed in file list, checks for dirty edit patterns in patterns then deletes if it matches a pattern.
+
+
+
 ## Prerequisites
 
 - Python **3.8+**
