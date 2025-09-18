@@ -1,0 +1,2 @@
+<hkparam\s+name="bones">\s*null\s*</hkparam>
+<hkparam\s+name="indexOfBindingToEnable">\s*-1\s*</hkparam>
