@@ -8,10 +8,6 @@ Supports both **Nemesis_Engine** and **Pandora_Engine** mod folders, using a con
 
 
 
----
-
-
-
 ## Prerequisites
 
 - Python **3.8+**
@@ -21,10 +17,6 @@ Supports both **Nemesis_Engine** and **Pandora_Engine** mod folders, using a con
 - `filelist.txt` — list of relative file paths to check  
 
 - `patterns.txt` — regex patterns to match dirty edits
-
-
-
----
 
 
 
@@ -53,7 +45,6 @@ python behavior_dirty_edit_cleaner.py
 4. Deletions are logged to cleanup.log.
 
 
----
 
 ## Building to EXE (Optional)
 ```bash
