@@ -1,2 +1,2 @@
-<hkparam\s+name="bones">\s*null\s*</hkparam>
-<hkparam\s+name="indexOfBindingToEnable">\s*-1\s*</hkparam>
+<!--\s*MOD_CODE\s*~[^~]+~\s*OPEN\s*-->\s*<hkparam\s+name="bones">\s*null\s*</hkparam>\s*<!--\s*ORIGINAL\s*-->\s*<hkparam\s+name="bones">\s*#?\d+\s*</hkparam>
+<!--\s*MOD_CODE\s*~[^~]+~\s*OPEN\s*-->\s*<hkparam\s+name="indexOfBindingToEnable">\s*-?\d+\s*</hkparam>\s*<!--\s*ORIGINAL\s*-->\s*<hkparam\s+name="indexOfBindingToEnable">\s*-?\d+\s*</hkparam>
