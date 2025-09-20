@@ -54,5 +54,5 @@ python behavior_dirty_edit_cleaner.py
 
 ## Building to EXE (Optional)
 ```bash
-python -m nuitka behavior_dirty_edit_cleaner.py --onefile --windows-disable-console --enable-plugin=tk-inter --lto=yes --remove-output --nofollow-imports --clang --output-dir=build
+python -m nuitka behavior_dirty_edit_cleaner.py --onefile --windows-console-mode=disable --enable-plugin=tk-inter --lto=yes --remove-output --clang --output-dir=build
 ```
